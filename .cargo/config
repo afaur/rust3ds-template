@@ -3,3 +3,4 @@ target = "3ds"
 
 [target.3ds]
 linker = "arm-none-eabi-gcc"
+ar = "/opt/devkitpro/devkitARM/bin/arm-none-eabi-ar"
